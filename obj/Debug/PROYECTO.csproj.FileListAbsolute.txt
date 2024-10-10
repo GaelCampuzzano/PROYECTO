@@ -1,0 +1,10 @@
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\obj\Debug\PROYECTO.csproj.AssemblyReference.cache
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\obj\Debug\PROYECTO.csproj.GenerateResource.cache
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\obj\Debug\PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\52624\Documents\Prueba\Max\PROYECTO\obj\Debug\PROYECTO.pdb
