@@ -21,6 +21,7 @@ namespace PROYECTO
         {
             //ghjghggggggggggggggggg
             int h = 0;
+            //cocho
         }
 
         public void Sumar() 
